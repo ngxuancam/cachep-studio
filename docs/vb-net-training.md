@@ -3,17 +3,25 @@
 #### **① LINQ for VB.NET:**
 
 A.	What is LINQ, and what is its main purpose?
+
 B.	How is LINQ integrated into VB.NET?
+
 C.	Name some data sources that you can query using LINQ in VB.NET.
+
 D.	What makes LINQ powerful in handling data?
+
 E.	Compare LINQ with traditional data querying methods.
 
 #### **② Control for VB.Net web form:**
 
 A.	What are the main features of VB.NET in web application development?
+
 B.	Describe the significance and role of Web Form Controls in VB.NET.
+
 C.	List some common types of Controls used in VB.NET web forms.
+
 D.	How do you add a Control to a web page in VB.NET?
+
 E.	Explain the differences between Server Controls and Client Controls in VB.NET.
 
 #### **③ Session in VB.Net:**
