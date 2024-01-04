@@ -23,7 +23,7 @@
 * Differentiate between Session and ViewState in ASP.NET.
 * How do you store and retrieve data from Session in VB.NET?
 * Explain how Session maintains the state of the application across requests and responses.
-* 
+
 #### **④ Life-cycle in VB.Net Webform:**
 
 * What is the life cycle of a VB.NET Web Form, and why is it important for web developers to understand it?
