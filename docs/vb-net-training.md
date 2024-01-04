@@ -1,3 +1,5 @@
+# TRAINING DOCUMENT OF VB.NET
+
 #### **① LINQ for VB.NET:**
 
 A.	What is LINQ, and what is its main purpose?
@@ -21,3 +23,11 @@ B.	How do you initialize a session in VB.NET?
 C.	Differentiate between Session and ViewState in ASP.NET.
 D.	How do you store and retrieve data from Session in VB.NET?
 E.	Explain how Session maintains the state of the application across requests and responses.
+
+***
+
+**Note:**
+
+Feel free to use any software and document type (e.g., .docx, .xlsx, .pptx) to submit your answer. You can respond in Vietnamese, but please avoid directly copying content from online sources. These questions aim to evaluate your comprehension and pinpoint areas where you may need help, enabling the instructor to offer specific support for improvement.
+
+###### Written by CamNX
