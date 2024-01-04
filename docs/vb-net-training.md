@@ -23,6 +23,29 @@
 * Differentiate between Session and ViewState in ASP.NET.
 * How do you store and retrieve data from Session in VB.NET?
 * Explain how Session maintains the state of the application across requests and responses.
+* 
+#### **④ Life-cycle in VB.Net Webform:**
+
+* What is the life cycle of a VB.NET Web Form, and why is it important for web developers to understand it?
+* Explain the various stages in the life cycle of a VB.NET Web Form.
+* How does the life cycle of a VB.NET Web Form differ from the life cycle of a Windows Form?
+* What is the purpose of the Init stage in the life cycle of a VB.NET Web Form?
+* How does ViewState play a role in the life cycle of a VB.NET Web Form, and when is it populated?
+* Describe the events that occur during the Load stage in the life cycle of a VB.NET Web Form.
+* What is the significance of the PreRender event in the life cycle of a VB.NET Web Form?
+* Explain how postback events are handled in the life cycle of a VB.NET Web Form.
+* What is the purpose of the Unload stage in the life cycle of a VB.NET Web Form?
+* How can you control the behavior of a VB.NET Web Form at different stages of its life cycle?
+* In what scenarios would you override the OnInit method in the life cycle of a VB.NET Web Form?
+* What are the differences between the Page\_Load event and the Page\_Init event in the life cycle of a VB.NET Web Form?
+* How does the ViewState help in maintaining state across postbacks in the life cycle of a VB.NET Web Form?
+* Explain the role of the Render method in the life cycle of a VB.NET Web Form.
+* What are the benefits of understanding the life cycle of a VB.NET Web Form in the context of application performance optimization?
+* How does the life cycle of a VB.NET Web Form impact the order of execution of code and events?
+* What is the difference between the IsPostBack property and the IsNotPostBack condition in the life cycle of a VB.NET Web Form?
+* How can you handle errors and exceptions effectively at different stages of the life cycle of a VB.NET Web Form?
+* Describe the ViewState and Control State in the life cycle of a VB.NET Web Form, and when would you use each?
+* In what scenarios would you implement custom logic or override methods during the life cycle of a VB.NET Web Form to meet specific requirements?
 
 ***
 
